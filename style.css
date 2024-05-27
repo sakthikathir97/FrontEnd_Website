@@ -1,0 +1,56 @@
+body{
+   margin:0;
+   padding:0;
+    box-sizing: border-box;
+
+}
+
+
+
+.navbar-expand-lg
+{
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+}
+
+.carousel
+{
+    
+    scroll-behavior: smooth;
+}
+
+
+
+.card
+{
+    padding:2%;
+    
+}
+
+.card img
+{
+    height:7.5rem;
+}
+
+.card-img-top
+{
+    height: 7.5rem;
+}
+
+.item1,.item2,.item3{
+    
+    margin-top:20px;
+  
+}
+
+.item4,.item5,.item6
+{
+    
+    margin-top:20px;
+    transition: margin-right 4s ease-in-out 1s;
+}
+
+.nav-item .nav-link{
+    text-decoration: none;
+}

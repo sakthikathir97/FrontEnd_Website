@@ -1,0 +1,85 @@
+body{
+    margin:0;
+    padding:0;
+     box-sizing: border-box;
+ 
+ }
+ 
+ ul a:hover{
+     line-height: 3.5rem;
+     background-color: green;
+     color:white;
+ }
+ 
+ .navbar-expand-lg
+ {
+     display: flex;
+     align-items:flex-end;
+     justify-content: space-between;
+ }
+ 
+ .carousel
+ {
+     
+     scroll-behavior: smooth;
+ }
+ 
+ 
+ 
+ .card
+ {
+     padding:2%;
+     
+ }
+ 
+ .card img
+ {
+     height:7.5rem;
+ }
+ 
+ .card-img-top
+ {
+     height: 7.5rem;
+ }
+ 
+ .item1,.item2,.item3{
+     
+     margin-top:20px;
+   
+ }
+ 
+ .item4,.item5,.item6
+ {
+     
+     margin-top:20px;
+     transition: margin-right 4s ease-in-out 1s;
+ }
+ 
+
+
+.card-text1
+{
+   
+   
+    font-size: 1rem;
+    font-weight: bolder;
+}
+.card-title1 {
+    font-size: 1.5rem;
+   
+    margin-top:-149px;
+    margin-left:171px;
+   
+    letter-spacing: 1px;
+}
+.card-body1
+{
+    margin-bottom: 10px;
+}
+
+
+p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+ 
